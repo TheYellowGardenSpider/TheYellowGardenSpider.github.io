@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>The yellow garden spider</title>
+        <style>
+        body {
+        background-color:rgb(0, 255, 4);
+        }
+        p {
+        color:rgb(0, 0, 0);
+        }
+        h1 {
+        color:rgb(0, 0, 0);
+        
+        }
+        h2 {
+        color:rgb(0, 0, 0);
+        }
+        
+        
+        
+        </style>
+        
+        
+    </head>
+    <body>
+        
+        <h1 id="top">The yellow garden spider.</h1>
+        <img src="https://www.kasandbox.org/programming-images/animals/spider.png"width="280"alt="yellow and brown garden spider">
+        <p><a href="#11">Content list</a><br>The <strong>yellow garden spider</strong> is good  because These <strong>spiders</strong> produce venom that is <em>harmless</em> to humans, but helps to immobilize prey like flies, bees, and other flying insects that are caught in the web.</p>
+    <h2 id="pop">Why you should keep yellow spiders garden in your garden.</h2>
+    <p>
+        Not only are <strong>garden spiders</strong> harmless, they can help make your <strong>garden</strong> a more enjoyable place to be! <strong>Garden spiders</strong> eat insects, including many common pests like mosquitoes and wasps. <strong>Garden spiders</strong> trap their prey by spinning webs that the insects fly into.
+    </p>
+    <h2 id="3">What to do with garden spiders.</h2>
+    These <strong>spiders</strong> are beneficial animals and are not dangerous, despite their large size. <strong>Garden spiders should not be killed</strong>, but <em>should</em> be relocated to another part of the yard where they will be out of the way of human traffic.
+    <h2 id="4">What does a garden spider look like?</h2>
+    <p>this species is actually quite beautiful, if you care to look close enough. The large females have a distinctive black and yellow abdomen, and 8 black legs that are graced with red or yellow markings. The leg span of fully grown females can be up to three inches long from front to back. The male garden spider isn’t quite as fancy or as large. He’s brown and drab and only about quarter of the size of the female.</p>
+    <h2 id="5">Do yellow garden spiders bite?</h2>
+    <p>Both male and female garden spiders are docile and nonaggressive. However, they can bite if threatened, trapped, or stepped on. Their bite is said to feel much like a bee sting and causes redness and swelling at the bite site. Like all spiders, yellow garden spiders are not “out to get you,” nor will they purposefully attack or harm humans. Let them do their work in the garden and try your best not to disturb them.</p>
+    <h2 id="6">What are garden spiders good for?</h2>
+    <p>Perhaps the biggest benefit of garden spiders is that they eat insects – mostly the unwanted pests that you don't want in your flower beds, like aphids, wasps, beetles, mosquitoes, and flies. They work hard, keeping those pesky populations in check before they can harm your favorite perennials or sting you.</p>
+    <h2 id="7">Other types of garden spiders.</h2>
+    <p>There are, of course, many other species of spiders worth appreciating in your garden. They’re extremely valuable predators who help manage pests in some surprising ways. While the yellow garden spider and other orb weavers trap their prey in webs, many species of spiders don’t spin webs at all. Instead, they crawl around and hunt for their prey. These spiders are known as cursorial, or hunting, spiders.There are, of course, many other species of spiders worth appreciating in your garden. They’re extremely valuable predators who help manage pests in some surprising ways. While the yellow garden spider and other orb weavers trap their prey in webs, many species of spiders don’t spin webs at all. Instead, they crawl around and hunt for their prey.  No matter which types of spiders live in your garden, give them some love. They play a major role in keeping the ecosystem of the garden healthy and balanced. Let them do their work as you go about yours and you’ll both reap the benefits.</p>
+    <h2 id="8">Info about yellow garden spiders.</h2>
+    <p>Yellow garden spiders are large, orb-weaving arachnids, meaning they spin a circular web. Most spiders have two claws on each foot, but orb weavers have an additional claw to help them spin their complex webs. In females, the top side of the abdomen is black with symmetrical patches of bright yellow.</p>
+    <h2 id="9">Where yellow garden spiders live.</h2>
+<p>Yellow garden spiders can be found throughout the continental United States and Canada, Mexico, and Central America. They spin webs in sunny areas with plants on which they can anchor the webs. They may also be seen in backyard gardens.</p>
+    <h2 id="10">Fun facts.</h2>
+   <ol>
+       <li>Also known as black and yellow argiopes, these lovely little spiders grow up to 3 cm long, with the females twice as large as the males.
+       <li>They are a kind of orb web spider and they build large round webs up to two feet across.
+       <li>They make a clear zigzag pattern of silk in the middle of their web and wait there for their prey to fly into it.  They are most active during the day and catch and eat flies, grasshoppers, crickets, wasps, moths and bees.  Females can catch prey twice as big as they are.
+       <li>After mating, the males die and are often eaten by the female.  She lays large egg sacs in the web and guards them from predators until she dies when the weather starts to get cold in winter.  In spring, thousands of little spiderlings hatch and float away on the wind on strands of silk.
+       
+       <li>Sometimes the garden spider connects itself to a web by a thread of silk and hides in the underbrush. When an insect gets caught, the spider can feel the vibrations of the web.
+   </ol>
+    <h2 id="11">Content list.</h2>
+    <a href="#1">Top ⬆</a><br>
+    <a href="#pop">Why you should keep yellow spiders in your garden.</a><br>
+    <a href="#3">What to do with garden spiders.</a><br>
+    <a href="#4">What does a garden spider look like?</a><br>
+    <a href="#5">Do yellow garden spiders bite?</a><br>
+    <a href="#6">What are garden spiders good for?</a><br>
+    <a href="#7">Other types of garden spiders.</a><br>
+    <a href="#8">Info about yellow garden spiders.</a><br>
+    <a href="#9">Where yellow garden spiders live.</a><br>
+    <a href="#10">Fun facts.</a><br>
+    
+    </body>
+</html>
